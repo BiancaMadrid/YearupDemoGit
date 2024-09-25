@@ -5,6 +5,7 @@ public class Main {
         String iThinkCodingIs = "GREAT!";
         boolean doYouguysLikeitSOfar = true;
         //commit choose file
+        //New Staging commit and ready to push to GITHUB
 
     }
 }
